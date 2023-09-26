@@ -12,9 +12,5 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
       <span>PokeStore</span>
     </header>
     <App />
-    <footer>
-      Encontrá la consigna de este ejercicio y otros más{" "}
-      <a href="https://github.com/goncy/interview-challenges/tree/main/poke-store">acá</a>
-    </footer>
   </main>,
 );
